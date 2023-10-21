@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codermonkey-py
+- 👋 Hi, I’m David.
 - 👀 I’m interested in Front-End Web development 
-- 🌱 I’m currently learning Javascript and Bootstrap
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Front-End Projects
 - 📫 You can reach me on my email daviddike165@gmail.com
 
